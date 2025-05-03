@@ -1,0 +1,25 @@
+generations:
+  - name: "First Generation (1972-1973)"
+    start_year: 1972
+    end_year: 1973
+    description: "The original Aston Martin Vantage was a performance variant of the DBS with a more powerful straight-six engine. It featured visual distinctions and performance upgrades over the standard model, though only a small number were produced during this brief production run."
+
+  - name: "V8 Vantage (1977-1989)"
+    start_year: 1977
+    end_year: 1989
+    description: "Often referred to as 'Britain's first supercar,' the V8 Vantage featured a muscular design and a powerful 5.3L V8 engine. Performance was impressive for its era, with the ability to reach 170 mph. Later variants included the V8 Vantage Zagato with distinctive Italian coachwork."
+
+  - name: "DB Vantage Models (1993-2000)"
+    start_year: 1993
+    end_year: 2000
+    description: "During this period, the Vantage name was applied to high-performance versions of the DB models, culminating in the twin-supercharged V8 Vantage V550 and V600, which produced up to 600 HP and were among the most powerful cars of their time."
+
+  - name: "V8 Vantage (2005-2017)"
+    start_year: 2005
+    end_year: 2017
+    description: "The modern V8 Vantage marked Aston Martin's entry into the sports car segment to compete with the Porsche 911. Initially powered by a 4.3L V8 (later increased to 4.7L), it featured a lightweight aluminum structure and distinctive styling by Henrik Fisker. The lineup expanded to include the V12 Vantage, Roadster variants, and numerous special editions, including the track-focused GT8 and GT12 models."
+
+  - name: "Current Generation (2018-present)"
+    start_year: 2018
+    end_year: null
+    description: "The current Vantage represents a significant departure from its predecessor with more aggressive styling and a Mercedes-AMG sourced 4.0L twin-turbo V8 producing 503 HP. Built on an all-new bonded aluminum platform, it features a more contemporary interior, sophisticated electronic systems, and improved performance capabilities. The range later expanded to include the limited-production V12 Vantage and various motorsport-inspired special editions. A major update in 2023 introduced revised styling, powertrain improvements, and chassis refinements."
