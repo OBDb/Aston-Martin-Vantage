@@ -1,3 +1,10 @@
+references:
+  - "https://en.wikipedia.org/wiki/Aston_Martin_Vantage_(1972)"
+  - "https://en.wikipedia.org/wiki/Aston_Martin_V8_Vantage_(1977)"
+  - "https://en.wikipedia.org/wiki/Aston_Martin_Virage"
+  - "https://en.wikipedia.org/wiki/Aston_Martin_Vantage_(2005)"
+  - "https://en.wikipedia.org/wiki/Aston_Martin_Vantage_(2018)"
+
 generations:
   - name: "First Generation (1972-1973)"
     start_year: 1972
@@ -9,10 +16,10 @@ generations:
     end_year: 1989
     description: "Often referred to as 'Britain's first supercar,' the V8 Vantage featured a muscular design and a powerful 5.3L V8 engine. Performance was impressive for its era, with the ability to reach 170 mph. Later variants included the V8 Vantage Zagato with distinctive Italian coachwork."
 
-  - name: "DB Vantage Models (1993-2000)"
+  - name: "Virage Vantage (1993-2000)"
     start_year: 1993
     end_year: 2000
-    description: "During this period, the Vantage name was applied to high-performance versions of the DB models, culminating in the twin-supercharged V8 Vantage V550 and V600, which produced up to 600 HP and were among the most powerful cars of their time."
+    description: "The high-performance Vantage variant of the Virage platform, introduced in 1993. It featured twin superchargers producing 550 HP initially (V550), with a later 600 HP upgrade (V600) available from 1998. The V8 Vantage Le Mans (1999-2000) was the final limited-production variant with 612 PS. The Vantage used wider bodywork, new suspension, and distinctive styling compared to the base Virage, with 280 coupés produced alongside 9 special Volante editions."
 
   - name: "V8 Vantage (2005-2017)"
     start_year: 2005
